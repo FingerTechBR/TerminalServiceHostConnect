@@ -1,0 +1,9 @@
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\bin\Debug\TerminalServiceFT.exe.config
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\bin\Debug\TerminalServiceFT.exe
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\bin\Debug\TerminalServiceFT.pdb
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\obj\Debug\TerminalServiceFT.csproj.CoreCompileInputs.cache
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\obj\Debug\TerminalServiceFT.exe
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\obj\Debug\TerminalServiceFT.pdb
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\bin\Debug\Cassia.dll
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\bin\Debug\Cassia.xml
+C:\Users\Lincoln\source\repos\TerminalServiceFT\TerminalServiceFT\obj\Debug\TerminalServiceFT.csproj.CopyComplete
